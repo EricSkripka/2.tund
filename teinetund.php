@@ -30,3 +30,11 @@
  
  
  ?>
+ 
+ <br>
+ 
+ <?php
+ 
+  echo date("d.m.y.G:i D");
+ 
+ ?>
